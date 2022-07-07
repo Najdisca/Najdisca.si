@@ -1,5 +1,5 @@
-X,Y,fid,Grad,Ime,Opredelitev,Površina,Etaž,Biv.etaž,Bivalna površina,Datacija,Dimenzije,Objava,Oblika,icon_url
-14.4629259194674,46.271923957004,"1",Velesovo,,Jedro,,,,,,,,,./0.png
-14.4581323464384,46.2730801517561,"2",Velesovo,V Johih,Gradiščanska,,,,,,,,,./0.png
-14.089270528164,46.3783680987473,"3",Bled,Na Turnu,,,,,,,,,,./0.png
-14.1003336211483,46.369682168306,"4",Bled,,Jedro,,,,,,,,,./0.png
+qc_id,fid,grad,ime,opredelitev,površina,etaž,biv.etaž,bivalna površina,datacija,dimenzije,objava,oblika,icon_url
+"0","1",Velesovo,,Jedro,,,,,,,,,./0.png
+"1","2",Velesovo,V Johih,Gradiščanska,,,,,,,,,./0.png
+"2","3",Bled,Na Turnu,,,,,,,,,,./0.png
+"3","4",Bled,,Jedro,,,,,,,,,./0.png

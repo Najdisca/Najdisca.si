@@ -129,6 +129,36 @@
 				<Layers>GH:temeljne_karte_lidartlazgradbesvf8_d48</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:gradovi_z_obrambnimi_sistemi</Name>
+				<Title>gradovi_z_obrambnimi_sistemi</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:utrjeni_dvori</Name>
+				<Title>utrjeni_dvori</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:klientelni_dvori</Name>
+				<Title>klientelni_dvori</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:strazni_stolpi</Name>
+				<Title>strazni_stolpi</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:propugnaculi</Name>
+				<Title>propugnaculi</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:neopredeljeno</Name>
+				<Title>neopredeljeno</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>

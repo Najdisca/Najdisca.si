@@ -1,19 +1,19 @@
-X,Y,fid,Grad,Ime,Oddaljenost od jedra,Površina etaže,Zanesljivost lokacije,Zanesljivost oznake,Datacija,Povezava do objave,icon_url
-14.9666874892879,46.1583303248561,"1",GAMBERK,Laz,390 m,95 m2,Zanesljiva,Verjetna,,https://najdisca.eu/gamberk/,./0.png
-15.2002655715824,45.7412178741988,"2",MEHOVO,Štrc,420 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.2087302429668,45.732281133651,"3",MEHOVO,Vrh,760 m,,Zanesljiva,Zanesljiva,,,./0.png
-14.6340751191697,46.0606617138071,"4",OSTERBERG,Stari grad,1050 m,50 m2,Zanesljiva,Verjetna,,,./0.png
-15.8310549381774,46.3492921529275,"5",PABŠTAJN,Verdenik,640 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.3709251990985,46.187750137719,"6",PLOŠTANJ,Piškov hrib,1200 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.3744269805029,46.1878776651162,"7",PLOŠTANJ,Puša,1100 m,,Zanesljiva,Verjetna,,,./0.png
-15.2265489772933,46.3173627725435,"8",RANŠPERK,"Likastok, Leder štok",320 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.6809655885075,46.2936862481947,"9",ŠTATENBERG,Kota 447,420 m,,Zanesljiva,Zanesljiva,,,./0.png
-14.9807322037594,46.2647038602524,"10",STOPNIK,Tudruš,830 m,,Zanesljiva,Zanesljiva,,,./0.png
-14.6052879800457,45.8782386632742,"11",TURJAK,"Spodnji Turjak, Stari grad",200 m,,Zanesljiva,Zanesljiva,,,./0.png
-13.8952918467604,45.6081371370661,"12",VIKUMBERG,Punjert,450 m,,Zanesljiva,Zanesljiva,,,./0.png
-14.5658499258736,45.9068564605345,"13",FALKENBERG,Oklučje,500 m,,Zanesljiva,Zanesljiva,,,./0.png
-14.5679480947675,45.9050670163156,"14",FALKENBERG,Stari grad,620 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.5509505216265,46.0723653121389,"15",KOZJE,,260 m,,Verjetna,Verjetna,,,./0.png
-15.5845761368693,46.0275930618646,"16",PODSREDA,Turnič,430 m,,Zanesljiva,Zanesljiva,,,./0.png
-15.596970510826,46.0326581921859,"17",PODSREDA,"""Vzhodna utrdba""",750 m,,Zanesljiva,Verjetna,,,./0.png
-15.5927902371323,46.0381942912828,"18",PODSREDA,Gradišče,1100 m,,Verjetna,Domnevna,,,./0.png
+qc_id,fid,grad,ime,oddaljenost od jedra,površina etaže,zanesljivost lokacije,zanesljivost oznake,datacija,povezava do objave,icon_url
+"0","1",GAMBERK,Laz,390 m,95 m2,Zanesljiva,Verjetna,,https://najdisca.eu/gamberk/,./0.png
+"1","2",MEHOVO,Štrc,420 m,,Zanesljiva,Zanesljiva,,,./0.png
+"2","3",MEHOVO,Vrh,760 m,,Zanesljiva,Zanesljiva,,,./0.png
+"3","4",OSTERBERG,Stari grad,1050 m,50 m2,Zanesljiva,Verjetna,,,./0.png
+"4","5",PABŠTAJN,Verdenik,640 m,,Zanesljiva,Zanesljiva,,,./0.png
+"5","6",PLOŠTANJ,Piškov hrib,1200 m,,Zanesljiva,Zanesljiva,,,./0.png
+"6","7",PLOŠTANJ,Puša,1100 m,,Zanesljiva,Verjetna,,,./0.png
+"7","8",RANŠPERK,"Likastok, Leder štok",320 m,,Zanesljiva,Zanesljiva,,,./0.png
+"8","9",ŠTATENBERG,Kota 447,420 m,,Zanesljiva,Zanesljiva,,,./0.png
+"9","10",STOPNIK,Tudruš,830 m,,Zanesljiva,Zanesljiva,,,./0.png
+"10","11",TURJAK,"Spodnji Turjak, Stari grad",200 m,,Zanesljiva,Zanesljiva,,,./0.png
+"11","12",VIKUMBERG,Punjert,450 m,,Zanesljiva,Zanesljiva,,,./0.png
+"12","13",FALKENBERG,Oklučje,500 m,,Zanesljiva,Zanesljiva,,,./0.png
+"13","14",FALKENBERG,Stari grad,620 m,,Zanesljiva,Zanesljiva,,,./0.png
+"14","15",KOZJE,,260 m,,Verjetna,Verjetna,,,./0.png
+"15","16",PODSREDA,Turnič,430 m,,Zanesljiva,Zanesljiva,,,./0.png
+"16","17",PODSREDA,"""Vzhodna utrdba""",750 m,,Zanesljiva,Verjetna,,,./0.png
+"17","18",PODSREDA,Gradišče,1100 m,,Verjetna,Domnevna,,,./0.png

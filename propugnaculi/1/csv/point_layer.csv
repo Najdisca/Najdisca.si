@@ -1,2 +1,2 @@
-X,Y,fid,Grad,Ime stolpa,Oddaljenost od jedra,Stanje,Oblika,Dimenzije,Debelina sten,Površina spodnje etaže,Sekundarne funkcije,Opombe,Datacija,Zanesljivost lokacije,Zanesljivost opredelitve,icon_url
-15.2727024064658,46.2196659334931,"1",Celje,Friderikov stolp,90m,Ohranjen,Kvadratna,,,,"Bivalna zgornja etaža, ječa v kletni etaži",S širitvijo gradu stolp spremeni značaj v bergfrid.,,Zanesljiva,Zanesljiva,./0.png
+qc_id,fid,grad,ime stolpa,oddaljenost od jedra,stanje,oblika,dimenzije,debelina sten,površina spodnje etaže,sekundarne funkcije,opombe,datacija,zanesljivost lokacije,zanesljivost opredelitve,icon_url
+"0","1",Celje,Friderikov stolp,90m,Ohranjen,Kvadratna,,,,"Bivalna zgornja etaža, ječa v kletni etaži",S širitvijo gradu stolp spremeni značaj v bergfrid.,,Zanesljiva,Zanesljiva,./0.png
