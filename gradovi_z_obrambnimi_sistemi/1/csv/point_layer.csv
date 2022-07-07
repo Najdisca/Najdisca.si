@@ -1,44 +1,44 @@
-qc_id,fid,grad,utrdba,vrsta,datacija,ohranjenos,lokacija,oznaka,ešd,oe,objava,površina v m2,zanesljivost meritve,icon_url
-"0","1",Waldenberk,Grad,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"17612",Kranj,DA,,,./0.png
-"1","3",Kamen,Kamen,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"207",Kranj,NE,,,./0.png
-"2","10",Gutenberg,Gutenberg,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"9534",Kranj,NE,,,./0.png
-"3","12",Kamnik - Mali grad,Mali grad,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"216",Kranj,,,,./0.png
-"4","14",Mehovo,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"10836",Novo mesto,Ne,,,./0.png
-"5","17",Prežek,Prežek,Jedro,,Najdišče,Zanesljiva,Zanesljiva,"8657",Novo mesto,Ne,,,./0.png
-"6","19",Čretež,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"9558",Novo mmesto,Ne,,,./0.png
-"7","21",Mirna,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"8","23",Planina,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"9","26",Celje,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"10","28",Vojnik,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"11","30",MARIBOR,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"12","32",Kamnica,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"13","34",Dobrenj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"14","36",Dravograd,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"15","38",Gamberk,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"16","40",Kebelj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"17","42",Ploštanj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"18","45",Rifnik,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"19","47",Štatenberg,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"20","49",Majdburg,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"21","51",Pabštajn,,Jedro,,Najdišče,Zanesljiva,Verjetna,,,Da,,,./0.png
-"22","53",Podsreda,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"23","57",Podčetrtek,,Jedro,,Ohranjen,Zaneljiva,Zanesljiva,,,Ne,,,./0.png
-"24","59",Kozje,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"25","65",Prežin,,Jedro,12. stoletje,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"26","69",Ranšperk,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"27","72",Rogatnica,,Jedro,,Najdišče,Zanesljiva,Domnevna,,,Da,,,./0.png
-"28","74",Lemberg pri Šmarju,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"29","85",Kostrivnica,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"30","92",Planina pri Sevnici,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
-"31","94",Žaženberk,,Jedro,,,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"32","96",Stopnik,,Jedro,,,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"33","98",Predjama,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"34","101",Falkenberg,Strmec,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"35","105",Vikumberg,,Jedro,,Najdišče,,Zanesljiva,,,Da,,,./0.png
-"36","107",Turjak,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"37","109",Neuburg,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,NE,,,./0.png
-"38","112",Osterberg,Grad,Jedro,,NAjdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"39","114",Žovnek,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
-"40","121",Bled,,Jedro,,,,,,,,,,./0.png
-"41","123",Velesovo,,Jedro,,,,,,,,,,./0.png
-"42","125",Borl,,Jedro,,,,,,,,,,./0.png
+fid,qc_id,grad,utrdba,vrsta,datacija,ohranjenos,lokacija,oznaka,ešd,oe,objava,površina v m2,zanesljivost meritve,icon_url
+"1","0",Waldenberk,Grad,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"17612",Kranj,DA,,,./0.png
+"3","1",Kamen,Kamen,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"207",Kranj,NE,,,./0.png
+"10","2",Gutenberg,Gutenberg,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"9534",Kranj,NE,,,./0.png
+"12","3",Kamnik - Mali grad,Mali grad,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"216",Kranj,,,,./0.png
+"14","4",Mehovo,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"10836",Novo mesto,Ne,,,./0.png
+"17","5",Prežek,Prežek,Jedro,,Najdišče,Zanesljiva,Zanesljiva,"8657",Novo mesto,Ne,,,./0.png
+"19","6",Čretež,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,"9558",Novo mmesto,Ne,,,./0.png
+"21","7",Mirna,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"23","8",Planina,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"26","9",Celje,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"28","10",Vojnik,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"30","11",MARIBOR,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"32","12",Kamnica,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"34","13",Dobrenj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"36","14",Dravograd,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"38","15",Gamberk,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"40","16",Kebelj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"42","17",Ploštanj,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"45","18",Rifnik,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"47","19",Štatenberg,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"49","20",Majdburg,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"51","21",Pabštajn,,Jedro,,Najdišče,Zanesljiva,Verjetna,,,Da,,,./0.png
+"53","22",Podsreda,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"57","23",Podčetrtek,,Jedro,,Ohranjen,Zaneljiva,Zanesljiva,,,Ne,,,./0.png
+"59","24",Kozje,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"65","25",Prežin,,Jedro,12. stoletje,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"69","26",Ranšperk,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"72","27",Rogatnica,,Jedro,,Najdišče,Zanesljiva,Domnevna,,,Da,,,./0.png
+"74","28",Lemberg pri Šmarju,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"85","29",Kostrivnica,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"92","30",Planina pri Sevnici,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Ne,,,./0.png
+"94","31",Žaženberk,,Jedro,,,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"96","32",Stopnik,,Jedro,,,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"98","33",Predjama,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"101","34",Falkenberg,Strmec,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"105","35",Vikumberg,,Jedro,,Najdišče,,Zanesljiva,,,Da,,,./0.png
+"107","36",Turjak,,Jedro,,Ohranjen,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"109","37",Neuburg,,Jedro,,Najdišče,Zanesljiva,Zanesljiva,,,NE,,,./0.png
+"112","38",Osterberg,Grad,Jedro,,NAjdišče,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"114","39",Žovnek,,Jedro,,Razvalina,Zanesljiva,Zanesljiva,,,Da,,,./0.png
+"121","40",Bled,,Jedro,,,,,,,,,,./0.png
+"123","41",Velesovo,,Jedro,,,,,,,,,,./0.png
+"125","42",Borl,,Jedro,,,,,,,,,,./0.png
